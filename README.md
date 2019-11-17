@@ -1,6 +1,6 @@
 # Angular 9 Mean Stack CRUD App with Material Design
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.12.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.0-rc.2.
 
 ## Development server
 
